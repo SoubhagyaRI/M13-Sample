@@ -1,4 +1,4 @@
-package com.sample;
+package practice;
 
 public class Demo {
 
@@ -6,7 +6,7 @@ public class Demo {
 		
 		System.out.println("Hello World");
 		System.out.println("Hello Git!");
-		System.out.println("Hello Selenium!");	
+		System.out.println("Hello Selenium!");
 	}
-	
+
 }
