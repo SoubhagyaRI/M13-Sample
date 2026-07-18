@@ -1,4 +1,4 @@
-package practice;
+package com.sample;
 
 public class Demo2 {
 
