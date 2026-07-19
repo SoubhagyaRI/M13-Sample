@@ -7,5 +7,4 @@ public class Demo2 {
 		System.out.println("In ATE branch");
 		System.out.println("Practice Git conflicats practice from ATE system");
 	}
-
 }
